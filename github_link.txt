@@ -1,0 +1,12 @@
+Link: https://github.com/Gulraj2002/HIT137-Assignment-3-S1-2025
+
+
+These Packages need to be installed in quiz 1.
+
+pip install Pillow
+pip install opencv-python
+
+
+This package needs to be installed in Quiz 2 
+
+pip install pygame
