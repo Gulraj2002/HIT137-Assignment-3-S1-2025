@@ -1,3 +1,4 @@
+# Question 2
 import pygame  # Import Pygame library for game development
 import random  # Import random module for randomizing collectibles and enemy actions
 
