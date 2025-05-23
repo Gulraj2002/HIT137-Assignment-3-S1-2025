@@ -1,3 +1,4 @@
+# Question 1
 # Import required libraries for the application
 import cv2  # Library for image processing operations
 import tkinter as tk  # Library for creating the graphical user interface
