@@ -1,4 +1,4 @@
-# Question 1
+# This is question one 
 
 # Import required libraries for the application
 import cv2  # Library for image processing operations
